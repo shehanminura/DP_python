@@ -1,0 +1,2 @@
+x="shehan"
+print(x)
